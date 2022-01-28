@@ -5,8 +5,8 @@
 
 ## Como no exemplo abaixo:
 
-    <p>Sorteado: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9</p>
-    <p>Valores de entrada: 15, 1, 9, 18, 99, 90, 14, 3, 8, 10, 17, 66, 54, 13, 19</p>
+    Sorteado: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
+    Valores de entrada: 15, 1, 9, 18, 99, 90, 14, 3, 8, 10, 17, 66, 54, 13, 19
 
 ### Retorno:
 
